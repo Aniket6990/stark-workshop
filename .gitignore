@@ -6,6 +6,3 @@ src
 .env
 .snfoundry_cache
 .DS_Store
-
-Scarb.toml
-Scarb.lock
